@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MovieCatalogue</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="movies">Movies</string>
+    <string name="tvShows">TV Shows</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">Title</string>
+    <string name="release_date">Release Date</string>
+    <string name="release_date_var">02/06/2021</string>
+    <string name="genre">Genre</string>
+    <string name="genre_var">Action</string>
+    <string name="duration">Duration</string>
+    <string name="duration_var">1h 59m</string>
+    <string name="overview">Overview</string>
+    <string name="slogan_var">A one man army.</string>
+    <string name="overview_var">A cold and mysterious new security guard for a Los Angeles cash truck company surprises his co-workers when he unleashes precision skills during a heist. The crew is left wondering who he is and where he came from. Soon, the marksman\'s ultimate motive becomes clear as he takes dramatic and irrevocable steps to settle a score.</string>
+</resources>
